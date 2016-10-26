@@ -1,0 +1,14 @@
+.address-form-group{
+     margin: 50px;
+}
+.icon-color{
+    color: #03a9f5;
+}
+
+.icon-colorred{
+    color: #03a9f5 !important;
+}
+
+.breadcrumb li {
+	font-size:13px !important;
+}

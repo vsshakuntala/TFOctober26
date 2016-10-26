@@ -1,0 +1,98 @@
+@font-face {
+  font-family: 'custom';
+  src:  url('fonts/custom.eot?cz1qpz');
+  src:  url('fonts/custom.eot?cz1qpz#iefix') format('embedded-opentype'),
+    url('fonts/custom.ttf?cz1qpz') format('truetype'),
+    url('fonts/custom.woff?cz1qpz') format('woff'),
+    url('fonts/custom.svg?cz1qpz#custom') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="custom-"], [class*=" custom-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'custom' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.custom-customer_role_access:before {
+  content: "\e908";
+}
+.custom-customer_tick_role:before {
+  content: "\e90f";
+}
+.custom-customer_tick_role_add:before {
+  content: "\e901";
+}
+.custom-customer_role_access_add:before {
+  content: "\e900";
+}
+.custom-Reset_password1:before {
+  content: "\e902";
+}
+.custom-Remove1:before {
+  content: "\e903";
+}
+.custom-Assign1:before {
+  content: "\e904";
+}
+.custom-Remove_all1:before {
+  content: "\e905";
+}
+.custom-Assign_all1:before {
+  content: "\e906";
+}
+.custom-organization_add1:before {
+  content: "\e907";
+}
+.custom-group_add:before {
+  content: "\e909";
+}
+.custom-map-pin_outline_add:before {
+  content: "\e90a";
+}
+.custom-add_machines:before {
+  content: "\e90b";
+}
+.custom-group:before {
+  content: "\e90c";
+}
+.custom-machines:before {
+  content: "\e90d";
+}
+.custom-map-pin_outline:before {
+  content: "\e90e";
+}
+
+.tf-icon {
+  display: inline-block;
+  font-style: normal;
+  /*font-weight: bold;*/
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+}
+
+.tf-icon-2x {
+  font-size: 2em !important;
+}
+
+.tf-icon-3x {
+  font-size: 3em !important;
+}
+
+.tf-icon-4x {
+  font-size: 4em !important;
+}
+
+.icon-color{
+    color: #03a9f5;
+}
